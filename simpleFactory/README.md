@@ -34,6 +34,7 @@
    
    Demo介绍
    
+    设计一个汽车工厂，生产具有drive()和playMusic()两个方法的汽车，要求在生产不支持的汽车时，抛出UnSupportProduceCarException()异常
    
    
 
