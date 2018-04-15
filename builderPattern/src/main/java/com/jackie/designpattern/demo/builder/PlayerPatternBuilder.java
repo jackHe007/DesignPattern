@@ -9,7 +9,7 @@ import com.jackie.designpattern.demo.product.Player;
  */
 public abstract class PlayerPatternBuilder {
 
-    public Player player = new Player();
+    protected Player player = new Player();
 
     public abstract void buildShowMenu();
 
