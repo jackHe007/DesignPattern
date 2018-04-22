@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <fm>com.jackie.designpattern.demo.abstraction.PDFConvert</fm>
+    <ds>com.jackie.designpattern.demo.implementor.OracleDataSource</ds>
+</config>
